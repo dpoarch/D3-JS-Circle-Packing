@@ -1,0 +1,5153 @@
+{
+  "name" : "All Categories",
+  "level" : 0,
+  "size" : 0,
+  "numDocs" : 0,
+  "density" : 0.0,
+  "children" : [ {
+    "name" : "Response Planning",
+    "level" : 1,
+    "size" : 2946,
+    "numDocs" : 90,
+    "density" : 0.430622009569378,
+    "children" : [ {
+      "name" : "Business continuity",
+      "level" : 2,
+      "size" : 1830,
+      "numDocs" : 54,
+      "density" : 0.2583732057416268
+    }, {
+      "name" : "Contingency Plan",
+      "level" : 2,
+      "size" : 171,
+      "numDocs" : 36,
+      "density" : 0.1722488038277512
+    }, {
+      "name" : "Course of Action",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Crisis Management",
+      "level" : 2,
+      "size" : 72,
+      "numDocs" : 17,
+      "density" : 0.08133971291866028
+    }, {
+      "name" : "cyber incident response plan",
+      "level" : 2,
+      "size" : 251,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Incident Response Policy",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "preparedness",
+      "level" : 2,
+      "size" : 201,
+      "numDocs" : 27,
+      "density" : 0.1291866028708134
+    }, {
+      "name" : "Response Planning",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Security Exploit",
+      "level" : 2,
+      "size" : 364,
+      "numDocs" : 50,
+      "density" : 0.23923444976076555
+    }, {
+      "name" : "Security Information and Event Management",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Information Management",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    } ]
+  }, {
+    "name" : "Risk Assessment",
+    "level" : 1,
+    "size" : 1700,
+    "numDocs" : 104,
+    "density" : 0.49760765550239233,
+    "children" : [ {
+      "name" : "Asset Management",
+      "level" : 2,
+      "size" : 160,
+      "numDocs" : 25,
+      "density" : 0.11961722488038277
+    }, {
+      "name" : "Asset Valuation",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Back Door",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Common Vulnerabilities and Exposures",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Common Vulnerability Scoring System",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Compensating Control",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Control Self-Assessment",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Corrective Control",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Critical System Infrastructure",
+      "level" : 2,
+      "size" : 292,
+      "numDocs" : 34,
+      "density" : 0.16267942583732056
+    }, {
+      "name" : "Detective Control",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Intellectual Property",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Risk Assessment",
+      "level" : 2,
+      "size" : 1057,
+      "numDocs" : 81,
+      "density" : 0.3875598086124402
+    }, {
+      "name" : "Security Assessment",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Audit",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Security Posture",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "situational awareness",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Zero Day Attack",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    } ]
+  }, {
+    "name" : "Awareness and Training",
+    "level" : 1,
+    "size" : 804,
+    "numDocs" : 105,
+    "density" : 0.5023923444976076,
+    "children" : [ {
+      "name" : "GIAC Security Essentials",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Gramm Leach Bliley Act",
+      "level" : 2,
+      "size" : 175,
+      "numDocs" : 60,
+      "density" : 0.28708133971291866
+    }, {
+      "name" : "Health Insurance Portability and Accountability Act",
+      "level" : 2,
+      "size" : 150,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Information Assurance",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Information Assurance Technical",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Information Security Awareness and Training Policy",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Insider Threat",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "keylogger",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "knowledge management",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Network Administrator",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Personnel Security",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Awareness",
+      "level" : 2,
+      "size" : 32,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "Security Violation",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "social engineering",
+      "level" : 2,
+      "size" : 40,
+      "numDocs" : 20,
+      "density" : 0.09569377990430622
+    }, {
+      "name" : "spam",
+      "level" : 2,
+      "size" : 34,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "spear fishing",
+      "level" : 2,
+      "size" : 73,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "spoofing",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "Systems Security Certified Professional",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Training and Awareness",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    } ]
+  }, {
+    "name" : "Information Protection Processes and Procedures",
+    "level" : 1,
+    "size" : 16020,
+    "numDocs" : 192,
+    "density" : 0.9186602870813397,
+    "children" : [ {
+      "name" : "antispyware",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "antivirus",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "asymmetric key",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "authenticity",
+      "level" : 2,
+      "size" : 39,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Black Hole",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Certificate Authority",
+      "level" : 2,
+      "size" : 125,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Certified Information Security Manager",
+      "level" : 2,
+      "size" : 53,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Certified Information systems Security Professional",
+      "level" : 2,
+      "size" : 30,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Checksum",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "cipher",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Computer Emergency Readiness Team",
+      "level" : 2,
+      "size" : 58,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "computer forensics",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "computer network defense",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "confidentiality",
+      "level" : 2,
+      "size" : 633,
+      "numDocs" : 116,
+      "density" : 0.5550239234449761
+    }, {
+      "name" : "Control Self-Assessment",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Cross-Site Scripting",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Cyber Attack",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "Cyber Threat",
+      "level" : 2,
+      "size" : 65,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Darkweb",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Data Collection",
+      "level" : 2,
+      "size" : 93,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Data Corruption",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Data Discovery and Classification",
+      "level" : 2,
+      "size" : 31,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Data Forensics",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "data integrity",
+      "level" : 2,
+      "size" : 71,
+      "numDocs" : 24,
+      "density" : 0.11483253588516747
+    }, {
+      "name" : "data leakage",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "data mining",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Data Protection",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Data Security",
+      "level" : 2,
+      "size" : 2097,
+      "numDocs" : 113,
+      "density" : 0.5406698564593302
+    }, {
+      "name" : "decipher",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Defense in Depth",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "designed-in security",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Distributed Control System",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "egress",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Electronic Records",
+      "level" : 2,
+      "size" : 83,
+      "numDocs" : 25,
+      "density" : 0.11961722488038277
+    }, {
+      "name" : "encode",
+      "level" : 2,
+      "size" : 51,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "encryption",
+      "level" : 2,
+      "size" : 555,
+      "numDocs" : 67,
+      "density" : 0.32057416267942584
+    }, {
+      "name" : "End to End Process Flow",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Enterprise Architecture",
+      "level" : 2,
+      "size" : 27,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Enterprise Wide",
+      "level" : 2,
+      "size" : 166,
+      "numDocs" : 25,
+      "density" : 0.11961722488038277
+    }, {
+      "name" : "External Connection",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Federal Information Processing Standard",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "File Transfer Protocol",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Financial Services Information Sharing and Analysis Center",
+      "level" : 2,
+      "size" : 49,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "FINRA",
+      "level" : 2,
+      "size" : 330,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "firewall",
+      "level" : 2,
+      "size" : 187,
+      "numDocs" : 26,
+      "density" : 0.12440191387559808
+    }, {
+      "name" : "Frame Relay",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Government Records",
+      "level" : 2,
+      "size" : 209,
+      "numDocs" : 57,
+      "density" : 0.2727272727272727
+    }, {
+      "name" : "Hardening",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Identification and Authentication",
+      "level" : 2,
+      "size" : 19,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Identity and Access Management",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Identity Theft",
+      "level" : 2,
+      "size" : 1377,
+      "numDocs" : 61,
+      "density" : 0.291866028708134
+    }, {
+      "name" : "Incident and Problem Management",
+      "level" : 2,
+      "size" : 146,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Incident Response",
+      "level" : 2,
+      "size" : 355,
+      "numDocs" : 37,
+      "density" : 0.17703349282296652
+    }, {
+      "name" : "Industrial Control Systems",
+      "level" : 2,
+      "size" : 64,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "infiniband",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Information Extraction",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 21,
+      "density" : 0.10047846889952153
+    }, {
+      "name" : "Information Protection Processses and Procedures",
+      "level" : 2,
+      "size" : 57,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "Information Security Awareness and Training Policy",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Information Security Policy",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Information System",
+      "level" : 2,
+      "size" : 669,
+      "numDocs" : 84,
+      "density" : 0.4019138755980861
+    }, {
+      "name" : "ingress",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Input Validation",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Insider Threat",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Interconnectivity",
+      "level" : 2,
+      "size" : 30,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "International Electrotechnical Commission",
+      "level" : 2,
+      "size" : 251,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "International Organization for Standardization",
+      "level" : 2,
+      "size" : 220,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "interoperability",
+      "level" : 2,
+      "size" : 51,
+      "numDocs" : 17,
+      "density" : 0.08133971291866028
+    }, {
+      "name" : "ISO 27001",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "ISOC",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "IT Governance",
+      "level" : 2,
+      "size" : 939,
+      "numDocs" : 49,
+      "density" : 0.23444976076555024
+    }, {
+      "name" : "keylogger",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Logical Access",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "malicious logic",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "MSRB",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Multi-factor authentication",
+      "level" : 2,
+      "size" : 86,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "National Institute of Standards and Technology",
+      "level" : 2,
+      "size" : 533,
+      "numDocs" : 26,
+      "density" : 0.12440191387559808
+    }, {
+      "name" : "Network Diagram",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "network security",
+      "level" : 2,
+      "size" : 37,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "NOC",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Non-Repudiation",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "NSA",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Open Web Application Security Project",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Part 248",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Part 275",
+      "level" : 2,
+      "size" : 162,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Payment Card Industry Compliance",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "permissions",
+      "level" : 2,
+      "size" : 32,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Personally Identifiable Information",
+      "level" : 2,
+      "size" : 3365,
+      "numDocs" : 137,
+      "density" : 0.6555023923444976
+    }, {
+      "name" : "plaintext",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Privacy Notice",
+      "level" : 2,
+      "size" : 173,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "ransomware",
+      "level" : 2,
+      "size" : 354,
+      "numDocs" : 43,
+      "density" : 0.20574162679425836
+    }, {
+      "name" : "Realtime Network Monitoring",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Remote Access",
+      "level" : 2,
+      "size" : 138,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Sarbanes-Oxley Act",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "secret key",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Secure Development",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "secure hash algorithm",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Secure Sockets Layer",
+      "level" : 2,
+      "size" : 67,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Securities Exchange Act of 1934",
+      "level" : 2,
+      "size" : 75,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Security Assessment",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Audit",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Security Posture",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Session Hijacking",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Shadow IT",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "situational awareness",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "SOC",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Software Development Lifecycle",
+      "level" : 2,
+      "size" : 50,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "spam",
+      "level" : 2,
+      "size" : 34,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "spear fishing",
+      "level" : 2,
+      "size" : 73,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Static Code Analysis",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "symmetric key",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Tabletop Exercise",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Third Party Relationship",
+      "level" : 2,
+      "size" : 84,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Third Party Service Provider",
+      "level" : 2,
+      "size" : 104,
+      "numDocs" : 29,
+      "density" : 0.13875598086124402
+    }, {
+      "name" : "Third Party Termination",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Threat detection",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "threat intelligence",
+      "level" : 2,
+      "size" : 112,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Transmission Control Protocol",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Trusted Automated eXchange of Indicator Information",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "User Identification",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    } ]
+  }, {
+    "name" : "Maintenance",
+    "level" : 1,
+    "size" : 2321,
+    "numDocs" : 117,
+    "density" : 0.5598086124401914,
+    "children" : [ {
+      "name" : "Active Content",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "API",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Availability Management",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Collateral Management",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Contract Management",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Control Self-Assessment",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Data Security",
+      "level" : 2,
+      "size" : 2097,
+      "numDocs" : 113,
+      "density" : 0.5406698564593302
+    }, {
+      "name" : "During Employment",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Information system Maintenance",
+      "level" : 2,
+      "size" : 18,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Patch",
+      "level" : 2,
+      "size" : 112,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Service Level Agreement",
+      "level" : 2,
+      "size" : 53,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    } ]
+  }, {
+    "name" : "Anomalies and Events",
+    "level" : 1,
+    "size" : 2600,
+    "numDocs" : 121,
+    "density" : 0.5789473684210527,
+    "children" : [ {
+      "name" : "Anomalies and Events",
+      "level" : 2,
+      "size" : 27,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Anomalous Activity",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "attack signature",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "attacker",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "computer forensics",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "computer security incident",
+      "level" : 2,
+      "size" : 706,
+      "numDocs" : 80,
+      "density" : 0.3827751196172249
+    }, {
+      "name" : "Cyber Attack",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "Cybersecurity Event",
+      "level" : 2,
+      "size" : 85,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "disruption",
+      "level" : 2,
+      "size" : 379,
+      "numDocs" : 48,
+      "density" : 0.22966507177033493
+    }, {
+      "name" : "Distributed Denial of Service",
+      "level" : 2,
+      "size" : 111,
+      "numDocs" : 32,
+      "density" : 0.15311004784688995
+    }, {
+      "name" : "exfiltration",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Hacker",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Homing Beacon",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "impact analysis",
+      "level" : 2,
+      "size" : 167,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Indicators of Compromise",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "malicious logic",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "password cracker",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "probing",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "ransomware",
+      "level" : 2,
+      "size" : 354,
+      "numDocs" : 43,
+      "density" : 0.20574162679425836
+    }, {
+      "name" : "Remote Deletion",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Security Exploit",
+      "level" : 2,
+      "size" : 364,
+      "numDocs" : 50,
+      "density" : 0.23923444976076555
+    }, {
+      "name" : "Security Information and Event Management",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Information Management",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Security Log",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Violation",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Session Hijacking",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "spam",
+      "level" : 2,
+      "size" : 34,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "spear fishing",
+      "level" : 2,
+      "size" : 73,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "spoofing",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "SQL Injection",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "whitelist",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Zero Day Attack",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    } ]
+  }, {
+    "name" : "Governance",
+    "level" : 1,
+    "size" : 10786,
+    "numDocs" : 176,
+    "density" : 0.8421052631578947,
+    "children" : [ {
+      "name" : "Acceptable Use Policy",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "access control",
+      "level" : 2,
+      "size" : 151,
+      "numDocs" : 31,
+      "density" : 0.14832535885167464
+    }, {
+      "name" : "Access Control List",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Administrator Privileges",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Audit Logs",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Baseline Configuration",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "blockchain",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Business Environment",
+      "level" : 2,
+      "size" : 63,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Change Management",
+      "level" : 2,
+      "size" : 128,
+      "numDocs" : 30,
+      "density" : 0.14354066985645933
+    }, {
+      "name" : "Clean Desk Policy",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Compliance Management",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Computing Environment",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Configuration Management",
+      "level" : 2,
+      "size" : 76,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Control Objectives for Information and Related Technology",
+      "level" : 2,
+      "size" : 687,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Control Requirements",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Council on CyberSecurity",
+      "level" : 2,
+      "size" : 74,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "cyber ecosystem",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Cyber Resilience",
+      "level" : 2,
+      "size" : 532,
+      "numDocs" : 33,
+      "density" : 0.15789473684210525
+    }, {
+      "name" : "Cyber Security Framework",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Demilitarized Zone",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Department of Defence",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Department of Homeland Security",
+      "level" : 2,
+      "size" : 86,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "Detective Control",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "DevOps",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Due Diligence",
+      "level" : 2,
+      "size" : 872,
+      "numDocs" : 71,
+      "density" : 0.3397129186602871
+    }, {
+      "name" : "During Employment",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "End of Life",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "End to End Process Flow",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Federal Financial Institutions Examination Council",
+      "level" : 2,
+      "size" : 1361,
+      "numDocs" : 70,
+      "density" : 0.3349282296650718
+    }, {
+      "name" : "Federal Information Processing Standard",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "FFIEC Cybersecurity Assessment Tool",
+      "level" : 2,
+      "size" : 80,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Financial Services Information Sharing and Analysis Center",
+      "level" : 2,
+      "size" : 49,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "FINRA",
+      "level" : 2,
+      "size" : 330,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "GIAC Security Essentials",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Gramm Leach Bliley Act",
+      "level" : 2,
+      "size" : 175,
+      "numDocs" : 60,
+      "density" : 0.28708133971291866
+    }, {
+      "name" : "Health Insurance Portability and Accountability Act",
+      "level" : 2,
+      "size" : 150,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Human Resource Management",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Incident Response Policy",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Information Assurance",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Information Security Policy",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Information system Media Protection",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Infrastructure Security",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Internal Trusted Zone",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "International Electrotechnical Commission",
+      "level" : 2,
+      "size" : 251,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "International Organization for Standardization",
+      "level" : 2,
+      "size" : 220,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Internet of Things",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Internet Protocol",
+      "level" : 2,
+      "size" : 153,
+      "numDocs" : 37,
+      "density" : 0.17703349282296652
+    }, {
+      "name" : "Internet Service Provider",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "ISO 27001",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "ISOC",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "IT Governance",
+      "level" : 2,
+      "size" : 939,
+      "numDocs" : 49,
+      "density" : 0.23444976076555024
+    }, {
+      "name" : "IT System Inventory",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "knowledge management",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Local Area Network",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Middleware",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Mobile Device",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "MSRB",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "National Institute of Standards and Technology",
+      "level" : 2,
+      "size" : 533,
+      "numDocs" : 26,
+      "density" : 0.12440191387559808
+    }, {
+      "name" : "Network Address Translation",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Network Administrator",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Network Diagram",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "network security",
+      "level" : 2,
+      "size" : 37,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "NOC",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "NSA",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Open Web Application Security Project",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Operating System",
+      "level" : 2,
+      "size" : 122,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Out of Band",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "packets",
+      "level" : 2,
+      "size" : 19,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Part 248",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Part 275",
+      "level" : 2,
+      "size" : 162,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Payment Card Industry Compliance",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "permissions",
+      "level" : 2,
+      "size" : 32,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Personnel Security",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "PGP",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Platform as a Service",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Policies and Standards",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Privacy",
+      "level" : 2,
+      "size" : 1329,
+      "numDocs" : 100,
+      "density" : 0.4784688995215311
+    }, {
+      "name" : "Privacy Policy",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Privileged Access",
+      "level" : 2,
+      "size" : 24,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Public Key Encryption",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Records Management",
+      "level" : 2,
+      "size" : 28,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "redundancy",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "Regulation Systems Compliance and Integrity",
+      "level" : 2,
+      "size" : 134,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Reporting Requirement",
+      "level" : 2,
+      "size" : 261,
+      "numDocs" : 45,
+      "density" : 0.215311004784689
+    }, {
+      "name" : "Requirements Analysis",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Retention Requirement",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Risk Analysis",
+      "level" : 2,
+      "size" : 348,
+      "numDocs" : 24,
+      "density" : 0.11483253588516747
+    }, {
+      "name" : "Router",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Sandbox",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Sarbanes-Oxley Act",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Secure Development",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Secure Shell",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Securities Exchange Act of 1934",
+      "level" : 2,
+      "size" : 75,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Security Architecture",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Shadow IT",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "SOC",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Software as a Service",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "software assurance",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Software Development Lifecycle",
+      "level" : 2,
+      "size" : 50,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Software Security",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "Storage area network",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Structured Threat Information Expression",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Supervisory Control and Data Acquisition",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "system administration",
+      "level" : 2,
+      "size" : 83,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "System Design",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "system integrity",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "System Testing",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Systems Security Certified Professional",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "threat intelligence",
+      "level" : 2,
+      "size" : 112,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Trusted Automated eXchange of Indicator Information",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Virtual Local Area Network",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Virtual Machine",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Virtual Private Network",
+      "level" : 2,
+      "size" : 37,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    } ]
+  }, {
+    "name" : "Communications RS",
+    "level" : 1,
+    "size" : 3096,
+    "numDocs" : 137,
+    "density" : 0.6555023923444976,
+    "children" : [ {
+      "name" : "Communications and Reporting",
+      "level" : 2,
+      "size" : 1031,
+      "numDocs" : 82,
+      "density" : 0.3923444976076555
+    }, {
+      "name" : "computer security incident",
+      "level" : 2,
+      "size" : 706,
+      "numDocs" : 80,
+      "density" : 0.3827751196172249
+    }, {
+      "name" : "Crisis Management",
+      "level" : 2,
+      "size" : 72,
+      "numDocs" : 17,
+      "density" : 0.08133971291866028
+    }, {
+      "name" : "cyber incident response plan",
+      "level" : 2,
+      "size" : 251,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Incident and Problem Management",
+      "level" : 2,
+      "size" : 146,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Incident Response",
+      "level" : 2,
+      "size" : 355,
+      "numDocs" : 37,
+      "density" : 0.17703349282296652
+    }, {
+      "name" : "Privacy Notice",
+      "level" : 2,
+      "size" : 173,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Reporting Requirement",
+      "level" : 2,
+      "size" : 261,
+      "numDocs" : 45,
+      "density" : 0.215311004784689
+    }, {
+      "name" : "Security Breach Notification",
+      "level" : 2,
+      "size" : 54,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "situational awareness",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    } ]
+  }, {
+    "name" : "Recovery Planning",
+    "level" : 1,
+    "size" : 2585,
+    "numDocs" : 78,
+    "density" : 0.37320574162679426,
+    "children" : [ {
+      "name" : "Business continuity",
+      "level" : 2,
+      "size" : 1830,
+      "numDocs" : 54,
+      "density" : 0.2583732057416268
+    }, {
+      "name" : "Contingency Plan",
+      "level" : 2,
+      "size" : 171,
+      "numDocs" : 36,
+      "density" : 0.1722488038277512
+    }, {
+      "name" : "Course of Action",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Disaster Recovery",
+      "level" : 2,
+      "size" : 292,
+      "numDocs" : 49,
+      "density" : 0.23444976076555024
+    }, {
+      "name" : "preparedness",
+      "level" : 2,
+      "size" : 201,
+      "numDocs" : 27,
+      "density" : 0.1291866028708134
+    }, {
+      "name" : "RC.CO",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Recovery Planning",
+      "level" : 2,
+      "size" : 68,
+      "numDocs" : 17,
+      "density" : 0.08133971291866028
+    } ]
+  }, {
+    "name" : "Mitigation",
+    "level" : 1,
+    "size" : 765,
+    "numDocs" : 66,
+    "density" : 0.3157894736842105,
+    "children" : [ {
+      "name" : "Compensating Control",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Corrective Control",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Incident and Problem Management",
+      "level" : 2,
+      "size" : 146,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Incident Response",
+      "level" : 2,
+      "size" : 355,
+      "numDocs" : 37,
+      "density" : 0.17703349282296652
+    }, {
+      "name" : "risk mitigation",
+      "level" : 2,
+      "size" : 237,
+      "numDocs" : 40,
+      "density" : 0.19138755980861244
+    }, {
+      "name" : "RS.MI",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    } ]
+  }, {
+    "name" : "Improvements",
+    "level" : 1,
+    "size" : 8,
+    "numDocs" : 2,
+    "density" : 0.009569377990430622,
+    "children" : [ {
+      "name" : "RS.IM",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    } ]
+  }, {
+    "name" : "Business Environment",
+    "level" : 1,
+    "size" : 5137,
+    "numDocs" : 144,
+    "density" : 0.6889952153110048,
+    "children" : [ {
+      "name" : "access control",
+      "level" : 2,
+      "size" : 151,
+      "numDocs" : 31,
+      "density" : 0.14832535885167464
+    }, {
+      "name" : "Access Control List",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Active Content",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "air gap",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "API",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Asset Valuation",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Availability Management",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Back Door",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Badge Reader",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Baseline Configuration",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Bring your own device",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Business Environment",
+      "level" : 2,
+      "size" : 63,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Capacity Management",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Certified Information Security Manager",
+      "level" : 2,
+      "size" : 53,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Certified Information systems Security Professional",
+      "level" : 2,
+      "size" : 30,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Change Management",
+      "level" : 2,
+      "size" : 128,
+      "numDocs" : 30,
+      "density" : 0.14354066985645933
+    }, {
+      "name" : "cloud computing",
+      "level" : 2,
+      "size" : 77,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Cloud Storage",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Collateral Management",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Common Weakness Enumeration",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Computer Emergency Readiness Team",
+      "level" : 2,
+      "size" : 58,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Computing Environment",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Contract Management",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Control Objectives for Information and Related Technology",
+      "level" : 2,
+      "size" : 687,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Control Requirements",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Critical System Infrastructure",
+      "level" : 2,
+      "size" : 292,
+      "numDocs" : 34,
+      "density" : 0.16267942583732056
+    }, {
+      "name" : "cyber ecosystem",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "cyber infrastructure",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Cyber Insurance",
+      "level" : 2,
+      "size" : 24,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "cyber operations",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Cyber Resilience",
+      "level" : 2,
+      "size" : 532,
+      "numDocs" : 33,
+      "density" : 0.15789473684210525
+    }, {
+      "name" : "Cyber Security Framework",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Database",
+      "level" : 2,
+      "size" : 296,
+      "numDocs" : 55,
+      "density" : 0.2631578947368421
+    }, {
+      "name" : "Detection Device",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "DevOps",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Distributed Control System",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Domain Name Server",
+      "level" : 2,
+      "size" : 29,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Due Diligence",
+      "level" : 2,
+      "size" : 872,
+      "numDocs" : 71,
+      "density" : 0.3397129186602871
+    }, {
+      "name" : "End of Life",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Industrial Control Systems",
+      "level" : 2,
+      "size" : 64,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Internet of Things",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Internet Protocol",
+      "level" : 2,
+      "size" : 153,
+      "numDocs" : 37,
+      "density" : 0.17703349282296652
+    }, {
+      "name" : "Internet Service Provider",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "IT System Inventory",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "knowledge management",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Local Area Network",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Middleware",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Mobile Device",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Network Activity Baseline",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Network Address Translation",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Operating System",
+      "level" : 2,
+      "size" : 122,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Out of Band",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "packets",
+      "level" : 2,
+      "size" : 19,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Personnel Security",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Physical and Environmental",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Physical Media",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Physical Security",
+      "level" : 2,
+      "size" : 104,
+      "numDocs" : 30,
+      "density" : 0.14354066985645933
+    }, {
+      "name" : "Platform as a Service",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Principle of Least Privilege",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Privileged Access",
+      "level" : 2,
+      "size" : 24,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Public Key Encryption",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "redundancy",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "Regulation Systems Compliance and Integrity",
+      "level" : 2,
+      "size" : 134,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Requirements Analysis",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Retention Requirement",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Risk Analysis",
+      "level" : 2,
+      "size" : 348,
+      "numDocs" : 24,
+      "density" : 0.11483253588516747
+    }, {
+      "name" : "Rogue Wireless Access",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Router",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Sandbox",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Secure Shell",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Security Awareness",
+      "level" : 2,
+      "size" : 32,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "Service Level Agreement",
+      "level" : 2,
+      "size" : 53,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Shadow IT",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Software as a Service",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Software Security",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "Storage area network",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Structured Threat Information Expression",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Supervisory Control and Data Acquisition",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Supply Chain Risk Management",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "system administration",
+      "level" : 2,
+      "size" : 83,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "System Design",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "system integrity",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "System Testing",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Virtual Local Area Network",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Virtual Machine",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Virtual Private Network",
+      "level" : 2,
+      "size" : 37,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    } ]
+  }, {
+    "name" : "Detection Processes",
+    "level" : 1,
+    "size" : 1144,
+    "numDocs" : 86,
+    "density" : 0.41148325358851673,
+    "children" : [ {
+      "name" : "Anomalies and Events",
+      "level" : 2,
+      "size" : 27,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Anomalous Activity",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "artifical intelligence",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "attack signature",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "attacker",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "Audit Logs",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "behavior monitoring",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Checksum",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Common Weakness Enumeration",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "cryptographic algorithm",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Cyber Threat",
+      "level" : 2,
+      "size" : 65,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Cybersecurity Event",
+      "level" : 2,
+      "size" : 85,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Darkweb",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "data mining",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Data Protection",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Detection Device",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Detective Control",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "disruption",
+      "level" : 2,
+      "size" : 379,
+      "numDocs" : 48,
+      "density" : 0.22966507177033493
+    }, {
+      "name" : "Distributed Denial of Service",
+      "level" : 2,
+      "size" : 111,
+      "numDocs" : 32,
+      "density" : 0.15311004784688995
+    }, {
+      "name" : "ethical hacker",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Indicators of Compromise",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Intrusion Detection System",
+      "level" : 2,
+      "size" : 151,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "packet sniffing",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "probing",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "social engineering",
+      "level" : 2,
+      "size" : 40,
+      "numDocs" : 20,
+      "density" : 0.09569377990430622
+    }, {
+      "name" : "spoofing",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "SQL Injection",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Static Code Analysis",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Threat detection",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    } ]
+  }, {
+    "name" : "Analysis",
+    "level" : 1,
+    "size" : 1339,
+    "numDocs" : 102,
+    "density" : 0.4880382775119617,
+    "children" : [ {
+      "name" : "computer forensics",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "computer security incident",
+      "level" : 2,
+      "size" : 706,
+      "numDocs" : 80,
+      "density" : 0.3827751196172249
+    }, {
+      "name" : "cryptographic algorithm",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "cyber incident response plan",
+      "level" : 2,
+      "size" : 251,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Data Corruption",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Data Discovery and Classification",
+      "level" : 2,
+      "size" : 31,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Data Forensics",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "data integrity",
+      "level" : 2,
+      "size" : 71,
+      "numDocs" : 24,
+      "density" : 0.11483253588516747
+    }, {
+      "name" : "data mining",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Data Protection",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "decipher",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Deep Packet Inspection",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "egress",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "impact analysis",
+      "level" : 2,
+      "size" : 167,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Indicators of Compromise",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "ingress",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "RS.AN",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Static Code Analysis",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    } ]
+  }, {
+    "name" : "Protective Technology",
+    "level" : 1,
+    "size" : 1615,
+    "numDocs" : 116,
+    "density" : 0.5550239234449761,
+    "children" : [ {
+      "name" : "Active Content",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "antispyware",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "antivirus",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "API",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "artifical intelligence",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "asymmetric key",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "behavior monitoring",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Certificate Authority",
+      "level" : 2,
+      "size" : 125,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "cipher",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "computer network defense",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Data Corruption",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "data integrity",
+      "level" : 2,
+      "size" : 71,
+      "numDocs" : 24,
+      "density" : 0.11483253588516747
+    }, {
+      "name" : "encode",
+      "level" : 2,
+      "size" : 51,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "encryption",
+      "level" : 2,
+      "size" : 555,
+      "numDocs" : 67,
+      "density" : 0.32057416267942584
+    }, {
+      "name" : "endpoint security",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Intrusion Detection System",
+      "level" : 2,
+      "size" : 151,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Intrusion Prevention System",
+      "level" : 2,
+      "size" : 20,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "keylogger",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "message digest",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "plaintext",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Protective Technology",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "secret key",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "secure hash algorithm",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Secure Sockets Layer",
+      "level" : 2,
+      "size" : 67,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "symmetric key",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Threat detection",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "whitelist",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    } ]
+  }, {
+    "name" : "Risk Management Strategy",
+    "level" : 1,
+    "size" : 16317,
+    "numDocs" : 184,
+    "density" : 0.8803827751196173,
+    "children" : [ {
+      "name" : "Acceptable Use Policy",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Administrator Privileges",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Baseline Configuration",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "blockchain",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Business continuity",
+      "level" : 2,
+      "size" : 1830,
+      "numDocs" : 54,
+      "density" : 0.2583732057416268
+    }, {
+      "name" : "Business Environment",
+      "level" : 2,
+      "size" : 63,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Change Management",
+      "level" : 2,
+      "size" : 128,
+      "numDocs" : 30,
+      "density" : 0.14354066985645933
+    }, {
+      "name" : "Clean Desk Policy",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "cloud computing",
+      "level" : 2,
+      "size" : 77,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Cloud Storage",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Common Vulnerabilities and Exposures",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Common Vulnerability Scoring System",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Compliance Management",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Computer Security",
+      "level" : 2,
+      "size" : 39,
+      "numDocs" : 20,
+      "density" : 0.09569377990430622
+    }, {
+      "name" : "Computing Environment",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Configuration Management",
+      "level" : 2,
+      "size" : 76,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Contingency Plan",
+      "level" : 2,
+      "size" : 171,
+      "numDocs" : 36,
+      "density" : 0.1722488038277512
+    }, {
+      "name" : "Contract Management",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Control Objectives for Information and Related Technology",
+      "level" : 2,
+      "size" : 687,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Control Requirements",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Course of Action",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Crisis Management",
+      "level" : 2,
+      "size" : 72,
+      "numDocs" : 17,
+      "density" : 0.08133971291866028
+    }, {
+      "name" : "cyber ecosystem",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "cyber infrastructure",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Cyber Insurance",
+      "level" : 2,
+      "size" : 24,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "cyber operations",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Cyber Resilience",
+      "level" : 2,
+      "size" : 532,
+      "numDocs" : 33,
+      "density" : 0.15789473684210525
+    }, {
+      "name" : "Cyber Security Framework",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Cyber Threat",
+      "level" : 2,
+      "size" : 65,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Darkweb",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Defense in Depth",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "designed-in security",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "DevOps",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Disaster Recovery",
+      "level" : 2,
+      "size" : 292,
+      "numDocs" : 49,
+      "density" : 0.23444976076555024
+    }, {
+      "name" : "Distributed Control System",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Due Diligence",
+      "level" : 2,
+      "size" : 872,
+      "numDocs" : 71,
+      "density" : 0.3397129186602871
+    }, {
+      "name" : "During Employment",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "encode",
+      "level" : 2,
+      "size" : 51,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "encryption",
+      "level" : 2,
+      "size" : 555,
+      "numDocs" : 67,
+      "density" : 0.32057416267942584
+    }, {
+      "name" : "End to End Process Flow",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Enterprise Wide",
+      "level" : 2,
+      "size" : 166,
+      "numDocs" : 25,
+      "density" : 0.11961722488038277
+    }, {
+      "name" : "Federal Information Processing Standard",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Financial Services Information Sharing and Analysis Center",
+      "level" : 2,
+      "size" : 49,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "FINRA",
+      "level" : 2,
+      "size" : 330,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Hacker",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Hardening",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Homing Beacon",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Human Resource Management",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Industrial Control Systems",
+      "level" : 2,
+      "size" : 64,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Information Assurance",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Information Assurance Technical",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Information System",
+      "level" : 2,
+      "size" : 669,
+      "numDocs" : 84,
+      "density" : 0.4019138755980861
+    }, {
+      "name" : "Intellectual Property",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "International Electrotechnical Commission",
+      "level" : 2,
+      "size" : 251,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "International Organization for Standardization",
+      "level" : 2,
+      "size" : 220,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "ISO 27001",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "ISOC",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "IT Governance",
+      "level" : 2,
+      "size" : 939,
+      "numDocs" : 49,
+      "density" : 0.23444976076555024
+    }, {
+      "name" : "IT System Inventory",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Middleware",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Mobile Device",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Monitoring and Oversight",
+      "level" : 2,
+      "size" : 42,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "MSRB",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "National Institute of Standards and Technology",
+      "level" : 2,
+      "size" : 533,
+      "numDocs" : 26,
+      "density" : 0.12440191387559808
+    }, {
+      "name" : "Network Diagram",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "network security",
+      "level" : 2,
+      "size" : 37,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "NOC",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "NSA",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Open Web Application Security Project",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Out of Band",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Part 248",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Part 275",
+      "level" : 2,
+      "size" : 162,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "password cracker",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Patch",
+      "level" : 2,
+      "size" : 112,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Payment Card Industry Compliance",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "penetration testing",
+      "level" : 2,
+      "size" : 570,
+      "numDocs" : 26,
+      "density" : 0.12440191387559808
+    }, {
+      "name" : "permissions",
+      "level" : 2,
+      "size" : 32,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Physical and Environmental",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Physical Media",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Physical Security",
+      "level" : 2,
+      "size" : 104,
+      "numDocs" : 30,
+      "density" : 0.14354066985645933
+    }, {
+      "name" : "plaintext",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "preparedness",
+      "level" : 2,
+      "size" : 201,
+      "numDocs" : 27,
+      "density" : 0.1291866028708134
+    }, {
+      "name" : "Principle of Least Privilege",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Privacy",
+      "level" : 2,
+      "size" : 1329,
+      "numDocs" : 100,
+      "density" : 0.4784688995215311
+    }, {
+      "name" : "Privacy Policy",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Records Management",
+      "level" : 2,
+      "size" : 28,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "redundancy",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "Regulation Systems Compliance and Integrity",
+      "level" : 2,
+      "size" : 134,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Requirements Analysis",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Retention Requirement",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Risk Analysis",
+      "level" : 2,
+      "size" : 348,
+      "numDocs" : 24,
+      "density" : 0.11483253588516747
+    }, {
+      "name" : "Risk Management Framework",
+      "level" : 2,
+      "size" : 2277,
+      "numDocs" : 97,
+      "density" : 0.46411483253588515
+    }, {
+      "name" : "risk mitigation",
+      "level" : 2,
+      "size" : 237,
+      "numDocs" : 40,
+      "density" : 0.19138755980861244
+    }, {
+      "name" : "Router",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Sandbox",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Sarbanes-Oxley Act",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "secret key",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Secure Development",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "secure hash algorithm",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Secure Sockets Layer",
+      "level" : 2,
+      "size" : 67,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Securities Exchange Act of 1934",
+      "level" : 2,
+      "size" : 75,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Security Assessment",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Audit",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Security Awareness",
+      "level" : 2,
+      "size" : 32,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "Security Posture",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "SOC",
+      "level" : 2,
+      "size" : 25,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "software assurance",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Structured Threat Information Expression",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Supply Chain Risk Management",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "symmetric key",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "system administration",
+      "level" : 2,
+      "size" : 83,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "System Design",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "system integrity",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Tabletop Exercise",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Third Party Relationship",
+      "level" : 2,
+      "size" : 84,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Third Party Service Provider",
+      "level" : 2,
+      "size" : 104,
+      "numDocs" : 29,
+      "density" : 0.13875598086124402
+    }, {
+      "name" : "Third Party Termination",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "threat intelligence",
+      "level" : 2,
+      "size" : 112,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Trusted Automated eXchange of Indicator Information",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Virtual Local Area Network",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Virtual Machine",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Virtual Private Network",
+      "level" : 2,
+      "size" : 37,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    } ]
+  }, {
+    "name" : "Asset Management",
+    "level" : 1,
+    "size" : 3623,
+    "numDocs" : 144,
+    "density" : 0.6889952153110048,
+    "children" : [ {
+      "name" : "Asset Management",
+      "level" : 2,
+      "size" : 160,
+      "numDocs" : 25,
+      "density" : 0.11961722488038277
+    }, {
+      "name" : "Asset Valuation",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Availability Management",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Badge Reader",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Bring your own device",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Capacity Management",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "cloud computing",
+      "level" : 2,
+      "size" : 77,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Cloud Storage",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Collateral Management",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Common Vulnerabilities and Exposures",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Common Vulnerability Scoring System",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Common Weakness Enumeration",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Compliance Management",
+      "level" : 2,
+      "size" : 13,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Configuration Management",
+      "level" : 2,
+      "size" : 76,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Critical System Infrastructure",
+      "level" : 2,
+      "size" : 292,
+      "numDocs" : 34,
+      "density" : 0.16267942583732056
+    }, {
+      "name" : "cyber infrastructure",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Cyber Insurance",
+      "level" : 2,
+      "size" : 24,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "cyber operations",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Database",
+      "level" : 2,
+      "size" : 296,
+      "numDocs" : 55,
+      "density" : 0.2631578947368421
+    }, {
+      "name" : "Detection Device",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Domain Name Server",
+      "level" : 2,
+      "size" : 29,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "End of Life",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "GIAC Security Essentials",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Human Resource Management",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Identification and Authentication",
+      "level" : 2,
+      "size" : 19,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Identity and Access Management",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Information Assurance Technical",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Information System",
+      "level" : 2,
+      "size" : 669,
+      "numDocs" : 84,
+      "density" : 0.4019138755980861
+    }, {
+      "name" : "Information system Maintenance",
+      "level" : 2,
+      "size" : 18,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "Infrastructure Security",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Input Validation",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Insider Threat",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Intellectual Property",
+      "level" : 2,
+      "size" : 47,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Interconnectivity",
+      "level" : 2,
+      "size" : 30,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Internal Trusted Zone",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Internet of Things",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Internet Protocol",
+      "level" : 2,
+      "size" : 153,
+      "numDocs" : 37,
+      "density" : 0.17703349282296652
+    }, {
+      "name" : "Internet Service Provider",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "interoperability",
+      "level" : 2,
+      "size" : 51,
+      "numDocs" : 17,
+      "density" : 0.08133971291866028
+    }, {
+      "name" : "Local Area Network",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "malicious logic",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "message digest",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Monitoring and Oversight",
+      "level" : 2,
+      "size" : 42,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Multi-factor authentication",
+      "level" : 2,
+      "size" : 86,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "Network Activity Baseline",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Network Address Translation",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Network Administrator",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Non-Repudiation",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Operating System",
+      "level" : 2,
+      "size" : 122,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "packets",
+      "level" : 2,
+      "size" : 19,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Patch",
+      "level" : 2,
+      "size" : 112,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Platform as a Service",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Principle of Least Privilege",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Privileged Access",
+      "level" : 2,
+      "size" : 24,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Public Key Encryption",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "ransomware",
+      "level" : 2,
+      "size" : 354,
+      "numDocs" : 43,
+      "density" : 0.20574162679425836
+    }, {
+      "name" : "Records Management",
+      "level" : 2,
+      "size" : 28,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Secure Shell",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Security Architecture",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Exploit",
+      "level" : 2,
+      "size" : 364,
+      "numDocs" : 50,
+      "density" : 0.23923444976076555
+    }, {
+      "name" : "Security Information and Event Management",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Information Management",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Security Log",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Service Level Agreement",
+      "level" : 2,
+      "size" : 53,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Session Hijacking",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Software as a Service",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "software assurance",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Software Security",
+      "level" : 2,
+      "size" : 44,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "Storage area network",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Supply Chain Risk Management",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Systems Security Certified Professional",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "User Identification",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    } ]
+  }, {
+    "name" : "Security Continuous Monitoring",
+    "level" : 1,
+    "size" : 5901,
+    "numDocs" : 176,
+    "density" : 0.8421052631578947,
+    "children" : [ {
+      "name" : "Anomalies and Events",
+      "level" : 2,
+      "size" : 27,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "Anomalous Activity",
+      "level" : 2,
+      "size" : 16,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "antispyware",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "antivirus",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "artifical intelligence",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "behavior monitoring",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Computer Security",
+      "level" : 2,
+      "size" : 39,
+      "numDocs" : 20,
+      "density" : 0.09569377990430622
+    }, {
+      "name" : "confidentiality",
+      "level" : 2,
+      "size" : 633,
+      "numDocs" : 116,
+      "density" : 0.5550239234449761
+    }, {
+      "name" : "Cross-Site Scripting",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "cryptographic algorithm",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Cyber Attack",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 16,
+      "density" : 0.07655502392344497
+    }, {
+      "name" : "Cybersecurity Event",
+      "level" : 2,
+      "size" : 85,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Deep Packet Inspection",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "disruption",
+      "level" : 2,
+      "size" : 379,
+      "numDocs" : 48,
+      "density" : 0.22966507177033493
+    }, {
+      "name" : "Distributed Denial of Service",
+      "level" : 2,
+      "size" : 111,
+      "numDocs" : 32,
+      "density" : 0.15311004784688995
+    }, {
+      "name" : "Electronic Records",
+      "level" : 2,
+      "size" : 83,
+      "numDocs" : 25,
+      "density" : 0.11961722488038277
+    }, {
+      "name" : "endpoint security",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "ethical hacker",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "exfiltration",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "External Connection",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Hacker",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Homing Beacon",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Information Extraction",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 21,
+      "density" : 0.10047846889952153
+    }, {
+      "name" : "Information system Media Protection",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Infrastructure Security",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Intrusion Detection System",
+      "level" : 2,
+      "size" : 151,
+      "numDocs" : 19,
+      "density" : 0.09090909090909091
+    }, {
+      "name" : "Intrusion Prevention System",
+      "level" : 2,
+      "size" : 20,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Logical Access",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "Monitoring and Oversight",
+      "level" : 2,
+      "size" : 42,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Network Activity Baseline",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "packet sniffing",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "password cracker",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "penetration testing",
+      "level" : 2,
+      "size" : 570,
+      "numDocs" : 26,
+      "density" : 0.12440191387559808
+    }, {
+      "name" : "Personally Identifiable Information",
+      "level" : 2,
+      "size" : 3365,
+      "numDocs" : 137,
+      "density" : 0.6555023923444976
+    }, {
+      "name" : "PGP",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "probing",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Realtime Network Monitoring",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Remote Deletion",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Rogue Wireless Access",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Architecture",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Log",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "SQL Injection",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    } ]
+  }, {
+    "name" : "Data Security",
+    "level" : 1,
+    "size" : 11572,
+    "numDocs" : 188,
+    "density" : 0.8995215311004785,
+    "children" : [ {
+      "name" : "air gap",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "asymmetric key",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "attack signature",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "attacker",
+      "level" : 2,
+      "size" : 48,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "Audit Logs",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 10,
+      "density" : 0.04784688995215311
+    }, {
+      "name" : "authenticity",
+      "level" : 2,
+      "size" : 39,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Black Hole",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "blockchain",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Certificate Authority",
+      "level" : 2,
+      "size" : 125,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Certified Information Security Manager",
+      "level" : 2,
+      "size" : 53,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Certified Information systems Security Professional",
+      "level" : 2,
+      "size" : 30,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Checksum",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "cipher",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Computer Emergency Readiness Team",
+      "level" : 2,
+      "size" : 58,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "computer network defense",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Computer Security",
+      "level" : 2,
+      "size" : 39,
+      "numDocs" : 20,
+      "density" : 0.09569377990430622
+    }, {
+      "name" : "confidentiality",
+      "level" : 2,
+      "size" : 633,
+      "numDocs" : 116,
+      "density" : 0.5550239234449761
+    }, {
+      "name" : "Cross-Site Scripting",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Data Collection",
+      "level" : 2,
+      "size" : 93,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Data Discovery and Classification",
+      "level" : 2,
+      "size" : 31,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Data Forensics",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "data leakage",
+      "level" : 2,
+      "size" : 11,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Data Security",
+      "level" : 2,
+      "size" : 2097,
+      "numDocs" : 113,
+      "density" : 0.5406698564593302
+    }, {
+      "name" : "Database",
+      "level" : 2,
+      "size" : 296,
+      "numDocs" : 55,
+      "density" : 0.2631578947368421
+    }, {
+      "name" : "decipher",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 13,
+      "density" : 0.06220095693779904
+    }, {
+      "name" : "Deep Packet Inspection",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Defense in Depth",
+      "level" : 2,
+      "size" : 23,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "designed-in security",
+      "level" : 2,
+      "size" : 36,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "egress",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Electronic Records",
+      "level" : 2,
+      "size" : 83,
+      "numDocs" : 25,
+      "density" : 0.11961722488038277
+    }, {
+      "name" : "exfiltration",
+      "level" : 2,
+      "size" : 8,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Government Records",
+      "level" : 2,
+      "size" : 209,
+      "numDocs" : 57,
+      "density" : 0.2727272727272727
+    }, {
+      "name" : "Gramm Leach Bliley Act",
+      "level" : 2,
+      "size" : 175,
+      "numDocs" : 60,
+      "density" : 0.28708133971291866
+    }, {
+      "name" : "Hardening",
+      "level" : 2,
+      "size" : 15,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Health Insurance Portability and Accountability Act",
+      "level" : 2,
+      "size" : 150,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    }, {
+      "name" : "Identity Theft",
+      "level" : 2,
+      "size" : 1377,
+      "numDocs" : 61,
+      "density" : 0.291866028708134
+    }, {
+      "name" : "Information Extraction",
+      "level" : 2,
+      "size" : 69,
+      "numDocs" : 21,
+      "density" : 0.10047846889952153
+    }, {
+      "name" : "Information system Media Protection",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "ingress",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "message digest",
+      "level" : 2,
+      "size" : 21,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "packet sniffing",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "penetration testing",
+      "level" : 2,
+      "size" : 570,
+      "numDocs" : 26,
+      "density" : 0.12440191387559808
+    }, {
+      "name" : "Personally Identifiable Information",
+      "level" : 2,
+      "size" : 3365,
+      "numDocs" : 137,
+      "density" : 0.6555023923444976
+    }, {
+      "name" : "PGP",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Physical and Environmental",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Privacy",
+      "level" : 2,
+      "size" : 1329,
+      "numDocs" : 100,
+      "density" : 0.4784688995215311
+    }, {
+      "name" : "Privacy Policy",
+      "level" : 2,
+      "size" : 41,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    }, {
+      "name" : "Realtime Network Monitoring",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Remote Access",
+      "level" : 2,
+      "size" : 138,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "Remote Deletion",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Rogue Wireless Access",
+      "level" : 2,
+      "size" : 4,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Security Violation",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "social engineering",
+      "level" : 2,
+      "size" : 40,
+      "numDocs" : 20,
+      "density" : 0.09569377990430622
+    }, {
+      "name" : "Supervisory Control and Data Acquisition",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "System Testing",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Tabletop Exercise",
+      "level" : 2,
+      "size" : 6,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Third Party Relationship",
+      "level" : 2,
+      "size" : 84,
+      "numDocs" : 11,
+      "density" : 0.05263157894736842
+    }, {
+      "name" : "Third Party Service Provider",
+      "level" : 2,
+      "size" : 104,
+      "numDocs" : 29,
+      "density" : 0.13875598086124402
+    }, {
+      "name" : "Third Party Termination",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "whitelist",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Zero Day Attack",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    } ]
+  }, {
+    "name" : "Access Control",
+    "level" : 1,
+    "size" : 854,
+    "numDocs" : 68,
+    "density" : 0.3253588516746411,
+    "children" : [ {
+      "name" : "access control",
+      "level" : 2,
+      "size" : 151,
+      "numDocs" : 31,
+      "density" : 0.14832535885167464
+    }, {
+      "name" : "Access Control List",
+      "level" : 2,
+      "size" : 5,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Administrator Privileges",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 4,
+      "density" : 0.019138755980861243
+    }, {
+      "name" : "air gap",
+      "level" : 2,
+      "size" : 7,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "authenticity",
+      "level" : 2,
+      "size" : 39,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Back Door",
+      "level" : 2,
+      "size" : 9,
+      "numDocs" : 6,
+      "density" : 0.028708133971291867
+    }, {
+      "name" : "Badge Reader",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Black Hole",
+      "level" : 2,
+      "size" : 2,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Bring your own device",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Compensating Control",
+      "level" : 2,
+      "size" : 14,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Corrective Control",
+      "level" : 2,
+      "size" : 3,
+      "numDocs" : 3,
+      "density" : 0.014354066985645933
+    }, {
+      "name" : "Identification and Authentication",
+      "level" : 2,
+      "size" : 19,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Identity and Access Management",
+      "level" : 2,
+      "size" : 38,
+      "numDocs" : 12,
+      "density" : 0.05741626794258373
+    }, {
+      "name" : "Input Validation",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "Interconnectivity",
+      "level" : 2,
+      "size" : 30,
+      "numDocs" : 7,
+      "density" : 0.03349282296650718
+    }, {
+      "name" : "Internal Trusted Zone",
+      "level" : 2,
+      "size" : 1,
+      "numDocs" : 1,
+      "density" : 0.004784688995215311
+    }, {
+      "name" : "interoperability",
+      "level" : 2,
+      "size" : 51,
+      "numDocs" : 17,
+      "density" : 0.08133971291866028
+    }, {
+      "name" : "Intrusion Prevention System",
+      "level" : 2,
+      "size" : 20,
+      "numDocs" : 5,
+      "density" : 0.023923444976076555
+    }, {
+      "name" : "Logical Access",
+      "level" : 2,
+      "size" : 62,
+      "numDocs" : 15,
+      "density" : 0.07177033492822966
+    }, {
+      "name" : "Multi-factor authentication",
+      "level" : 2,
+      "size" : 86,
+      "numDocs" : 14,
+      "density" : 0.06698564593301436
+    }, {
+      "name" : "Non-Repudiation",
+      "level" : 2,
+      "size" : 22,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Physical Media",
+      "level" : 2,
+      "size" : 26,
+      "numDocs" : 9,
+      "density" : 0.0430622009569378
+    }, {
+      "name" : "Physical Security",
+      "level" : 2,
+      "size" : 104,
+      "numDocs" : 30,
+      "density" : 0.14354066985645933
+    }, {
+      "name" : "Remote Access",
+      "level" : 2,
+      "size" : 138,
+      "numDocs" : 23,
+      "density" : 0.11004784688995216
+    }, {
+      "name" : "User Identification",
+      "level" : 2,
+      "size" : 12,
+      "numDocs" : 8,
+      "density" : 0.03827751196172249
+    } ]
+  }, {
+    "name" : "Communications RC",
+    "level" : 1,
+    "size" : 1648,
+    "numDocs" : 118,
+    "density" : 0.5645933014354066,
+    "children" : [ {
+      "name" : "Communications and Reporting",
+      "level" : 2,
+      "size" : 1031,
+      "numDocs" : 82,
+      "density" : 0.3923444976076555
+    }, {
+      "name" : "Disaster Recovery",
+      "level" : 2,
+      "size" : 292,
+      "numDocs" : 49,
+      "density" : 0.23444976076555024
+    }, {
+      "name" : "RC.CO",
+      "level" : 2,
+      "size" : 10,
+      "numDocs" : 2,
+      "density" : 0.009569377990430622
+    }, {
+      "name" : "Reporting Requirement",
+      "level" : 2,
+      "size" : 261,
+      "numDocs" : 45,
+      "density" : 0.215311004784689
+    }, {
+      "name" : "Security Breach Notification",
+      "level" : 2,
+      "size" : 54,
+      "numDocs" : 18,
+      "density" : 0.0861244019138756
+    } ]
+  } ]
+}
